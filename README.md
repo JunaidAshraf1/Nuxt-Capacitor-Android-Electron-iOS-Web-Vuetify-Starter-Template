@@ -19,6 +19,10 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# generate static project to generate no-ssr code and copy to all platform from dist folder
+$ npm run generate-capacitor
+
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
