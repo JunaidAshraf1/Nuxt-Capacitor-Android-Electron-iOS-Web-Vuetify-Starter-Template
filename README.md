@@ -6,6 +6,10 @@
 # install dependencies
 $ npm install
 
+# install dependencies inside electon folder also (../electron)
+# Important**
+$ npm install
+
 # serve with hot reload at localhost:3000
 $ npm run dev
 
