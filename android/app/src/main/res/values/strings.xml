@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nuxt-capacitor</string>
+    <string name="title_activity_main">nuxt-capacitor</string>
+    <string name="package_name">com.nuxt.capacitor</string>
+    <string name="custom_url_scheme">com.nuxt.capacitor</string>
+</resources>
